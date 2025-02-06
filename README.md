@@ -16,6 +16,12 @@ Here are some ideas to get you started:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20Jiwon's%20Github%20☺️&fontAlign=50&fontAlignY=40&fontSize=40&color=gradient&textBg=blue" width=100%/>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=wldnjs990" alt="Trophy" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wldnjs990&show_icons=true&theme=buefy"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wldnjs990&layout=compact&theme=buefy"/>
+</p>
+
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=wldnjs990&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/wldnjs990"
@@ -23,12 +29,6 @@ Here are some ideas to get you started:
   height="300"
 />
 </a>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wldnjs990" alt="Trophy" />
-  <img src="https://github-readme-stats.vercel.app/api?username=wldnjs990&show_icons=true&theme=transparent"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wldnjs990&layout=compact&theme=transparent"/>
-</p>
-
 
 
 ## 👀 About Me
