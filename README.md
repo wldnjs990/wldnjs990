@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcom%20Jiwon's%20Github%20☺️&fontAlign=50&fontAlignY=40&fontSize=40&color=gradient&textBg=blue" width=100%/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20Jiwon's%20Github%20☺️&fontAlign=50&fontAlignY=40&fontSize=40&color=gradient&textBg=blue" width=100%/>
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=wldnjs990&utm_content=farm">
 <img
