@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20Jiwon's%20Github%20☺️&fontAlign=50&fontAlignY=40&fontSize=40&color=gradient&textBg=blue" width=100%/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20Jiwon's%20Github%20☺️&fontAlign=50&fontAlignY=40&fontSize=40&color=gradient&textBg=blue&fontColor=ffffff" width=100%/>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=wldnjs990" alt="Trophy" />
