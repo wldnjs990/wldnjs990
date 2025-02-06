@@ -23,8 +23,8 @@ Here are some ideas to get you started:
   height="300"
 />
 </a>
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=wldnjs990" alt="Trophy" /> -->
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=wldnjs990" alt="Trophy" />
   <img src="https://github-readme-stats.vercel.app/api?username=wldnjs990&show_icons=true&theme=transparent"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wldnjs990&layout=compact&theme=transparent"/>
 </p>
