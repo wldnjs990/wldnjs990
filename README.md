@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=wldnjs990" alt="Trophy" />
-  <img src="https://github-readme-stats.vercel.app/api?username=wldnjs990&show_icons=true&theme=buefy" height=205/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wldnjs990&layout=compact&theme=buefy" height=205/>
+  <img src="https://github-readme-stats.vercel.app/api?username=wldnjs990&show_icons=true&theme=buefy" height=150/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wldnjs990&layout=compact&theme=buefy" height=150/>
 </p>
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=wldnjs990&utm_content=farm">
